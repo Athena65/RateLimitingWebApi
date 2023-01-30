@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MP+Lb5hNrhJoGSnOHVXcllxQbo82P0KH69f/IjmTBu8=",
+  "Source": "RateLimitingWebApi",
+  "BasePath": "_content/RateLimitingWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
